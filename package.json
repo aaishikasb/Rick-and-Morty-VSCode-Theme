@@ -3,12 +3,18 @@
     "displayName": "Rick And Morty",
     "description": "Look Morty! I turned myself into a Visual Studio Code Theme!",
     "version": "0.0.1",
+    "publisher": "aaishika",
     "engines": {
         "vscode": "^1.45.0"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "images/logo.jpg",
+    "galleryBanner": {
+      "color": "#101216",
+      "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
@@ -17,5 +23,9 @@
                 "path": "./themes/Rick and Morty Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aaishikasb/rick-and-morty-vscode-theme.git"
+      }
 }
