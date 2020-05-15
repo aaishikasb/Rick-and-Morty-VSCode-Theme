@@ -2,7 +2,7 @@
 	"name": "Rick and Morty Theme",
 	"type": "dark",
 	"publisher": "aaishika",
-	"icon": "images/logo.png",
+	"icon": "images/logo.jpg",
     "version": "0.0.1",
 	"colors": {
 		"editor.background": "#000000",
