@@ -1,6 +1,7 @@
 {
 	"name": "Rick and Morty Theme",
 	"type": "dark",
+	"publisher": "aaishika",
 	"colors": {
 		"editor.background": "#000000",
 		"tab.activeBackground": "#000000",
