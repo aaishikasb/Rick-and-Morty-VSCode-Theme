@@ -1,0 +1,21 @@
+{
+    "name": "rick-and-morty",
+    "displayName": "Rick And Morty",
+    "description": "Look Morty! I turned myself into a Visual Studio Code Theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rick and Morty Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rick and Morty Theme-color-theme.json"
+            }
+        ]
+    }
+}
