@@ -2,6 +2,8 @@
 	"name": "Rick and Morty Theme",
 	"type": "dark",
 	"publisher": "aaishika",
+	"icon": "images/logo.png",
+    "version": "0.0.1",
 	"colors": {
 		"editor.background": "#000000",
 		"tab.activeBackground": "#000000",
@@ -58,7 +60,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#44281d"
+				"foreground": "#683a28"
 			}
 		},
 		{
@@ -213,7 +215,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#44281d"
+				"foreground": "#683a28"
 			}
 		},
 		{
@@ -223,7 +225,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#44281d"
+				"foreground": "#683a28"
 			}
 		},
 		{
@@ -299,7 +301,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#44281d"
+				"foreground": "#683a28"
 			}
 		},
 		{
@@ -358,7 +360,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#44281d"
+				"foreground": "#683a28"
 			}
 		},
 		{
@@ -394,7 +396,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#44281d"
+				"foreground": "#683a28"
 			}
 		},
 		{
