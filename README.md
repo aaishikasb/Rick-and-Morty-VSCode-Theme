@@ -15,7 +15,7 @@ Look Morty I turned myself into a Visual Studio Code Color Theme! <br>
 ![Version](https://img.shields.io/visual-studio-marketplace/v/aaishika.rick-and-morty)
 ![Release Date](https://img.shields.io/github/release-date/aaishikasb/Rick-and-Morty-VSCode-Theme)
 ![Issues](https://img.shields.io/github/issues/aaishikasb/Rick-and-Morty-VSCode-Theme)
-![Forks](https://img.shields.io/github/forks/aaishikasb/Rick-and-Morty-VSCode-Theme)
+![Stars GitHub](https://img.shields.io/github/stars/aaishikasb/Rick-and-Morty-VSCode-Theme)
 ![Language](https://img.shields.io/github/languages/top/aaishikasb/Rick-and-Morty-VSCode-Theme)
 ![Size](https://img.shields.io/github/repo-size/aaishikasb/Rick-and-Morty-VSCode-Theme)
 ![Website](https://img.shields.io/website?down_color=Lightgrey&down_message=Down&up_color=green&up_message=Up&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Daaishika.rick-and-morty)
