@@ -2,3 +2,11 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+**/*.vsix
+scripts/**
+examples/**
+docs/**
+.github/**
+.DS_Store
+images/1.png
+images/2.png

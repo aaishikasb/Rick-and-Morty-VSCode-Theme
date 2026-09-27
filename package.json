@@ -1,8 +1,8 @@
 {
     "name": "rick-and-morty",
-    "displayName": "Rick And Morty",
-    "description": "Look Morty! I turned myself into a Visual Studio Code Theme!",
-    "version": "0.0.1",
+    "displayName": "Rick and Morty — Portal Themes",
+    "description": "Portal-inspired dark and light color themes with readable syntax, visible focus, and a little interdimensional green.",
+    "version": "0.1.0",
     "publisher": "aaishika",
     "engines": {
         "vscode": "^1.45.0"
@@ -10,22 +10,38 @@
     "categories": [
         "Themes"
     ],
+    "keywords": ["rick and morty", "portal", "dark", "light", "green", "color theme"],
+    "license": "MIT",
+    "scripts": {
+        "test": "node scripts/check-themes.cjs",
+        "vscode:prepublish": "npm test"
+    },
     "icon": "images/logo.jpg",
     "galleryBanner": {
-      "color": "#101216",
+      "color": "#121814",
       "theme": "dark"
     },
     "contributes": {
         "themes": [
             {
-                "label": "Rick and Morty Theme",
+                "id": "Rick and Morty Theme",
+                "label": "Rick and Morty: Portal Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Rick and Morty Theme-color-theme.json"
+            },
+            {
+                "id": "Rick and Morty: Portal Light",
+                "label": "Rick and Morty: Portal Light",
+                "uiTheme": "vs",
+                "path": "./themes/Portal Light-color-theme.json"
             }
         ]
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/aaishikasb/rick-and-morty-vscode-theme.git"
-      }
+      },
+    "bugs": {
+        "url": "https://github.com/aaishikasb/rick-and-morty-vscode-theme/issues"
+    }
 }
